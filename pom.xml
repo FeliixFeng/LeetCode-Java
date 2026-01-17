@@ -4,14 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>online.labuladong.template</groupId>
-    <artifactId>java-template</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>com.feliixfeng</groupId>
+    <artifactId>leetcode-java</artifactId>
+    <version>1.0.0</version>
+    <name>LeetCode-Java-Practice</name>
+    <description>Felix Feng's LeetCode Algorithm Exercises</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+    </dependencies>
 
 </project>
